@@ -107,7 +107,7 @@ int main()
             printf("%s!\n", mensagemtres); 
             break;
         default:
-            // Código executado se nenhum dos cases corresponder
+            printf("Nenhuma questão selecionada."); 
     }
 
     return 0;
